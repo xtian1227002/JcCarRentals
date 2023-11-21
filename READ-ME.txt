@@ -1,0 +1,4 @@
+This website is about Car Rentals and Travels
+In creating this website I use HTML for the index and pages
+And CSS for the design of the website
+This Website is for educational purpose only
